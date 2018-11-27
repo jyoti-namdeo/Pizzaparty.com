@@ -1,0 +1,34 @@
+category,name,description,imageName,price
+CHOOSE YOUR CRUST,PAN PIZZA,"Our Pan Pizza has a thick crust that’s baked to golden perfection, crispy on the outside, soft and chewy on the inside.",icon_crust_pan.png,6
+CHOOSE YOUR CRUST,THIN ‘N CRISPY,Our thinner crust is baked perfectly so you can taste more of your favorite toppings.,icon_crust_thin.png,5
+CHOOSE YOUR CRUST,ORIGINAL STUFFED CRUST,The extra playful pizza you eat backwards. Pizzeria-style crust with a ring of melted cheese baked right into the crust.,icon_crust_sc.png,4
+CHOOSE YOUR CRUST,HAND TOSSED PIZZA,"Our Hand Tossed is handcrafted with a lighter, airier crust and is one of kind, every time.",icon_crust_ht .png,5.5
+CHOOSE YOUR CRUST,SKINNY SLICE PIZZA,"Our Skinny Slice crust is practically cheating. You get the same great flavor, but with smarter portion sizes for fewer calories per slice.",icon_crust_skinny.png,4.5
+PICK A SIZE,LARGE,Feeds 3-5 people,icon_size_large.png,4
+PICK A SIZE,MEDIUM,Feeds 2-4 people,icon_size_medium.png,3
+PICK A SIZE,SMALL,Feeds 1-2 people,icon_size_personalpan.png,3.5
+CHOOSE YOUR SAUCE,CLASSIC MARINARA,"Our classic tomato sauce, robustly seasoned with garlic and Italian herbs.",icon_sauce_Marinara.png,1
+CHOOSE YOUR SAUCE,PREMIUM CRUSHED TOMATO,"A bright, slightly sweet tomato sauce lightly seasoned with garlic and onion.",icon_sauce_CrushedTomato.png,1
+CHOOSE YOUR SAUCE,CREAMY GARLIC PARMESAN,"A white sauce made with Parmesan and Romano cheeses, butter and garlic.",icon_sauce_CreamyGarlicParm.png,1
+CHOOSE YOUR SAUCE,BARBEQUE,A sweet and smoky barbeque sauce made with real honey and molasses.,icon_sauce_BBQ.png,1
+CHOOSE YOUR SAUCE,HONEY SRIRACHA,A sweet heat sauce made from real honey and red chili peppers.,icon_sauce_HoneySriracha.png,1.5
+CHEESE OR NO CHEESE,NO CHEESE,"",icon_cheese_none.png,1.5
+CHEESE OR NO CHEESE,CHEESE,"",icon_cheese_Mozzarella.png,0
+ADD INGREDIENTS,PEPPERONI,"",icon_topping_Pepperoni.png,2.5
+ADD INGREDIENTS,ITALIAN SAUSAGE,"",icon_topping_ItalianSausage.png,2
+ADD INGREDIENTS,PREMIUM SALAMI,"",icon_topping_Salami.png,2
+ADD INGREDIENTS,CLASSIC MEATBALL,"",icon_topping_Meatball.png,2
+ADD INGREDIENTS,SLOW-ROASTED HAM,"",icon_topping_Ham.png,2
+ADD INGREDIENTS,HARDWOOD SMOKED BACON,"",icon_topping_Bacon.png,2.5
+ADD INGREDIENTS,GRILLED CHICKEN,"",icon_topping_Chicken.png,2
+ADD INGREDIENTS,BEEF,"",icon_topping_Beef.png,2
+ADD INGREDIENTS,SEASONED PORK,"",icon_topping_Pork.png,2.5
+ADD INGREDIENTS,FRESH MUSHROOMS,"",icon_topping_Mushroom.png,1.5
+ADD INGREDIENTS,FRESH SPINACH,"Fresh baby spinach, placed on your pizza right out of the oven.",icon_topping_Spinach_fresh.png,1
+ADD INGREDIENTS,PERUVIAN CHERRY PEPPERS,"",icon_topping_CherryPepper.png,1
+ADD INGREDIENTS,FRESH RED ONIONS,"",icon_topping_Onion_Red.png,1.5
+ADD INGREDIENTS,MEDITERRANEAN BLACK OLIVES,"",icon_topping_Olive_black.png,1
+ADD INGREDIENTS,SLICED BANANA PEPPERS,"",icon_topping_GreenBellPepper.png,1.5
+ADD INGREDIENTS,SWEET PINEAPPLE,"",icon_topping_Pineapple.png,2
+ADD INGREDIENTS,SLICED JALAPEÑO PEPPERS,"",icon_topping_Jalapeno.png,1
+ADD INGREDIENTS,DICED ROMA TOMATOES,"",icon_topping_Tomato.png,1

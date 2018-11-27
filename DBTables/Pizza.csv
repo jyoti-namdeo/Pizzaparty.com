@@ -1,0 +1,5 @@
+id,image,name,desc,price
+100,/WebTutorial/images/pizza1.jpg,Pepperoni Pizza,"Premium pepperoni, 100% real cheese made from mozzarella and your choice of crust.",10
+101,/WebTutorial/images/cheese.jpg,Cheese Pizza,"100% real cheese made from mozzarella, pizza sauce and your choice of crust.",12
+102,/WebTutorial/images/garden.jpg,Garden Fresh Pizza,"Green peppers, onions, mushrooms, black olives and Roma tomatoes",13
+103,/WebTutorial/images/spinach.jpg,Garden Fresh Pizza,"Spinach and a rich, creamy garlic Parmesan Alfredo sauce.",14

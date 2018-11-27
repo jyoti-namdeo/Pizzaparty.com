@@ -1,0 +1,5 @@
+mongoimport --db PizzaParty --type csv --headerline --file CustomizePizza.csv
+mongoimport --db PizzaParty --type csv --headerline --file Drinks.csv
+mongoimport --db PizzaParty --type csv --headerline --file Pizza.csv
+mongoimport --db PizzaParty --type csv --headerline --file Bread.csv
+mongoimport --db PizzaParty --type csv --headerline --file Deserts.csv

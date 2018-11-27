@@ -1,0 +1,5 @@
+id,image,name,desc,price
+400,/WebTutorial/images/pepsi.jpg,Pepsi,Chilled with ice.,3
+401,/WebTutorial/images/dietPepsi.jpg,Diet Pepsi,Chilled with ice.,4
+402,/WebTutorial/images/dew.jpg,Mountain Dew,Chilled with ice.,3
+403,/WebTutorial/images/coke.jpg,Coke,Chilled with ice.,3
